@@ -1,10 +1,17 @@
 {
-  "seq": 77,
   "title": "Task and Care Request Management System",
+  "old_slug": "task-and-care-request-management-system",
   "slug": "task-and-care-request-management-system",
   "folder": "Task_And_Care_Request_Management_System",
-  "kind": "app",
-  "body_words": 239,
+  "kind": "product",
+  "body_words": 300,
+  "source": "MICT Academic",
   "project_id": "Academic Project 6",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
